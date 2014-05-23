@@ -14,4 +14,4 @@ tags.scss
 Partial compat refers to a lack of a generated circle for the tag.
 
 ### Example
-Usage example @ this gist: https://gist.github.com/doot0/4f1735757ffd7652bab9
+~~Usage example @ this gist: https://gist.github.com/doot0/4f1735757ffd7652bab9~~ - out of date
